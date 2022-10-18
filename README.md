@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JPS915-xdarked
+- 👀 I’m interested in discord and minecraft bots
+- 🌱 I’m currently learning javascript and python
+- 💞️ I’m looking to collaborate on mineflayer or discord bots
+- 📫 you can reach me via discord @JPS915#3533 or xdarked#2820
